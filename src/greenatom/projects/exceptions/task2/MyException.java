@@ -8,7 +8,7 @@ public class MyException extends Exception {
 
     private StackTraceElement[] stack = super.getStackTrace();
 
-    MyException(){}
+    MyException() { }
 
     MyException(String cause) {
         this.cause = cause;

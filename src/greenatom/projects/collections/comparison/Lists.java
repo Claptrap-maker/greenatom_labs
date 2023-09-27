@@ -6,7 +6,7 @@ public class Lists {
 
     private ArrayList<Integer> array = new ArrayList<>();
     private LinkedList<Integer> list = new LinkedList<>();
-    public void addToEnd () {
+    public void addToEnd() {
         long start = System.currentTimeMillis();
         for (int i = 0; i < 500000; i++) {
             array.add(i);
