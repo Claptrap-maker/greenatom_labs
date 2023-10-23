@@ -1,8 +1,8 @@
-package greenatom.projects.jdbc.and.hibernate.service;
+package greenatom.projects.jdbc.service;
 
-import greenatom.projects.jdbc.and.hibernate.dao.IUserDao;
-import greenatom.projects.jdbc.and.hibernate.dao.UserDao;
-import greenatom.projects.jdbc.and.hibernate.model.User;
+import greenatom.projects.jdbc.dao.IUserDao;
+import greenatom.projects.jdbc.dao.UserDao;
+import greenatom.projects.jdbc.model.User;
 
 import java.util.List;
 

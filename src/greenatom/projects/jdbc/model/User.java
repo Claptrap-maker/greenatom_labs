@@ -1,4 +1,4 @@
-package greenatom.projects.jdbc.and.hibernate.model;
+package greenatom.projects.jdbc.model;
 
 import java.io.Serializable;
 import java.time.LocalDate;

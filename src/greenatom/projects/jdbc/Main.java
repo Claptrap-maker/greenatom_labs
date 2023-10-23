@@ -1,7 +1,7 @@
-package greenatom.projects.jdbc.and.hibernate;
+package greenatom.projects.jdbc;
 
-import greenatom.projects.jdbc.and.hibernate.model.User;
-import greenatom.projects.jdbc.and.hibernate.service.UserService;
+import greenatom.projects.jdbc.model.User;
+import greenatom.projects.jdbc.service.UserService;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.List;

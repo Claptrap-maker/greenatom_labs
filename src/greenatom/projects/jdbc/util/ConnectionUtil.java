@@ -1,4 +1,4 @@
-package greenatom.projects.jdbc.and.hibernate.util;
+package greenatom.projects.jdbc.util;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

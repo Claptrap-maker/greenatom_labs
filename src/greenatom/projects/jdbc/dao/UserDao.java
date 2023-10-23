@@ -1,7 +1,7 @@
-package greenatom.projects.jdbc.and.hibernate.dao;
+package greenatom.projects.jdbc.dao;
 
-import greenatom.projects.jdbc.and.hibernate.model.User;
-import greenatom.projects.jdbc.and.hibernate.util.ConnectionUtil;
+import greenatom.projects.jdbc.model.User;
+import greenatom.projects.jdbc.util.ConnectionUtil;
 
 import java.sql.*;
 import java.text.SimpleDateFormat;
